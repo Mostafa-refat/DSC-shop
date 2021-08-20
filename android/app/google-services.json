@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646552290074",
+    "project_id": "dsc-shop-c1b1e",
+    "storage_bucket": "dsc-shop-c1b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646552290074:android:fef86b2ad36549b988a2a3",
+        "android_client_info": {
+          "package_name": "com.example.dsc_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646552290074-bvpf61cvcqg0543u78as8tlt9f2g51se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4JgzZh0RRIkYhL7HyYK6Dpf4OAU2_Wpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646552290074-bvpf61cvcqg0543u78as8tlt9f2g51se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
